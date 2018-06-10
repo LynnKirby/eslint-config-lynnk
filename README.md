@@ -2,6 +2,7 @@
   
 # eslint-config-lynnk
 [![npm version](https://img.shields.io/npm/v/eslint-config-lynnk.svg)](https://www.npmjs.com/package/eslint-config-lynnk)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FLynnKirby%2Feslint-config-lynnk.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FLynnKirby%2Feslint-config-lynnk?ref=badge_shield)
 
 **[eslint-config-airbnb-base](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb-base) + double-quotes + TypeScript**
 
@@ -18,3 +19,6 @@
 ## License
 
 Released to the public domain under Creative Commons CC0 1.0.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FLynnKirby%2Feslint-config-lynnk.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FLynnKirby%2Feslint-config-lynnk?ref=badge_large)
