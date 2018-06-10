@@ -21,6 +21,23 @@ module.exports = {
     "arrow-body-style": "off",
     "arrow-parens": "off",
 
+    // https://github.com/LynnKirby/eslint-config-lynnk/issues/2
+    "no-cond-assign": "error",
+
+    // https://github.com/LynnKirby/eslint-config-lynnk/issues/3
+    "prefer-destructuring": ["error", {
+      VariableDeclarator: {
+        array: false,
+        object: true,
+      },
+      AssignmentExpression: {
+        array: false,
+        object: false,
+      },
+    }, {
+      enforceForRenamedProperties: false,
+    }],
+
     // Misc. TypeScript rules.
     "typescript/class-name-casing": "error",
     "typescript/member-delimiter-style": "error",
@@ -60,6 +77,16 @@ module.exports = {
         // https://github.com/eslint/typescript-eslint-parser#known-issues
         "no-undef": "off",
         "import/prefer-default-export": "off",
+      },
+    },
+    {
+      files: [
+        "**/*.js",
+        "**/*.jsx",
+      ],
+      rules: {
+        // https://github.com/LynnKirby/eslint-config-lynnk/issues/1
+        "typescript/no-var-requires": "off",
       },
     },
   ],
