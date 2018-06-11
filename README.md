@@ -21,4 +21,4 @@
 Released to the public domain under Creative Commons CC0 1.0.
 
 
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FLynnKirby%2Feslint-config-lynnk.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FLynnKirby%2Feslint-config-lynnk?ref=badge_large)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FLynnKirby%2Feslint-config-lynnk.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FLynnKirby%2Feslint-config-lynnk?ref=badge_large) [![Greenkeeper badge](https://badges.greenkeeper.io/LynnKirby/eslint-config-lynnk.svg)](https://greenkeeper.io/)
